@@ -10,7 +10,7 @@
 
 
 
-
+## Here I m testing with 3 neurons and 4 inputs
 inputs = [1.2,2.1,3.1,4.1]
 
 weights1 = [1,2,3,4]
